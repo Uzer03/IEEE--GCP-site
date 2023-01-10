@@ -1,0 +1,13 @@
+
+#b1 {
+    background-image: url('gcp-images.jpeg');
+    background-size: cover;
+}
+
+#b2 {
+    background-image: url('cg23.jpg');
+    background-size: cover;
+}
+.scroll{
+    overflow: scroll;
+}
